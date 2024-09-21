@@ -1,0 +1,63 @@
+# Maven's target directory
+/target/
+
+# Maven-specific files
+log/
+*.log
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# Eclipse/STS specific files
+.project
+.classpath
+.settings/
+.springBeans
+.factorypath 
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# VSCode specific files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Coverage reports
+/site/
+.cobertura/
+
+# Test results
+/test-classes/
+/test-output/
+
+# Other ignored files
+!src/main/resources/
+!src/test/resources/
+
